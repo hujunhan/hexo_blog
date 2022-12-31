@@ -97,7 +97,7 @@
     "glob": "^7.1.7",
     "glob-base": "^0.3.0",
     "graceful-fs": "^4.2.6",
-    "hexo": "^5.4.0",
+    "hexo": "^6.3.0",
     "hexo-auto-category": "^0.2.0",
     "hexo-cli": "^4.2.0",
     "hexo-deployer-git": "^3.0.0",
