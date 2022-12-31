@@ -74,7 +74,7 @@
     "ejs": "^2.7.4",
     "esprima": "^4.0.1",
     "etag": "^1.8.1",
-    "expand-range": "^1.8.2",
+    "expand-range": "^2.0.2",
     "extglob": "^0.3.2",
     "fill-range": "^7.0.1",
     "filename-regex": "^2.0.1",
