@@ -54,7 +54,7 @@
     "css-parse": "^2.0.0",
     "cuid": "^2.1.8",
     "decode-uri-component": "^0.2.0",
-    "debug": "^2.6.9",
+    "debug": "^4.3.4",
     "deepmerge": "^4.2.2",
     "domelementtype": "^2.2.0",
     "depd": "^2.0.0",
