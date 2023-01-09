@@ -39,7 +39,7 @@
     "color-name": "^1.1.4",
     "class-utils": "^0.3.6",
     "command-exists": "^1.2.9",
-    "commander": "^5.1.0",
+    "commander": "^9.5.0",
     "clipboard": "^2.0.8",
     "collection-visit": "^1.0.0",
     "copy-descriptor": "^0.1.1",
