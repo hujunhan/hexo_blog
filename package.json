@@ -94,7 +94,7 @@
     "good-listener": "^1.2.2",
     "has-value": "^1.0.0",
     "has-values": "^1.0.0",
-    "glob": "^7.1.7",
+    "glob": "^9.3.0",
     "glob-base": "^0.3.0",
     "graceful-fs": "^4.2.6",
     "hexo": "^5.4.0",
