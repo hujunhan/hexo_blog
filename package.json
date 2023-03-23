@@ -127,7 +127,7 @@
     "is-binary-path": "^2.1.0",
     "http-errors": "^1.7.3",
     "is-accessor-descriptor": "^1.0.0",
-    "html-to-text": "^3.3.0",
+    "html-to-text": "^9.0.5",
     "is-core-module": "^2.4.0",
     "is-data-descriptor": "^1.0.0",
     "is-buffer": "^1.1.6",
